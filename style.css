@@ -436,6 +436,15 @@ body {
     text-align: center;
 }
 
+.footer-logo {
+    display: block;
+    width: 48px;
+    height: 48px;
+    object-fit: contain;
+    opacity: 0.5;
+    margin: 0 auto 12px;
+}
+
 .footer-email {
     font-size: 13px;
     color: var(--white-35);
